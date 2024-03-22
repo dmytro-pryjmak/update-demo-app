@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Update Demo</string>
+    <string name="downloading">Downloading...</string>
+    <string name="storage_access_required">Storage access is required to downloading the file.</string>
+    <string name="storage_permission_denied">Storage permission request was denied.</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="version_1">Version 1</string>
+    <string name="permission_required_toast">Permission to install apps is required for this feature.</string>
+</resources>
